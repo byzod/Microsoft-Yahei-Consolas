@@ -1,6 +1,14 @@
-# Microsoft-Yahei-Mono
-Microsoft Yahei Mono 字体
+# Microsoft-Yahei-Mono-fix
+Microsoft Yahei Mono fix字体
 
-> 个人非常喜欢的一款编程字体，所以从网上找来资源，放到 `GitHub` 上备用，后续如果有更新，也方便版本追溯。
+修改自[Microsoft-Yahei-Mono](https://github.com/chenyium/Microsoft-Yahei-Mono)，一切版权归原作者……不对，归微软所有🥵
 
-![字体预览](msyhmono.png)
+很多人都没注意consolas的字宽是1126，而雅黑全宽字是2048……
+
+修改前
+
+![1](https://user-images.githubusercontent.com/848607/166444624-55acfe6f-4c26-42ea-90da-391ca6899211.jpg)
+
+修改后
+
+![2](https://user-images.githubusercontent.com/848607/166444664-88a29e34-4e75-432c-87b6-462c7419110b.jpg)
