@@ -1,4 +1,4 @@
-# Microsoft-Yahei-Mono-fix
+# Microsoft-Yahei-Consolas
 Microsoft Yahei Mono fix字体
 
 修改自[Microsoft-Yahei-Mono](https://github.com/chenyium/Microsoft-Yahei-Mono)，一切版权归原作者……不对，归微软所有🥵
